@@ -25,8 +25,8 @@ Placeholder for pictures
   - [x] - ~~Folder Structure~~
 - [ ] - Start Menu
   - [ ] - Design
-  - [ ] - ArtWork
-  - [ ] - Code
+  - [ ] - ArtWork - Look into free options temporarily - Daniel
+  - [ ] - Code - Daniel
   - [ ] - Tests (????)
 - [ ] - Network Connection
   - [ ] - User Registration
