@@ -26,7 +26,7 @@ Placeholder for pictures
 - [ ] - Start Menu
   - [ ] - Design
   - [ ] - ArtWork - Look into free options temporarily - Daniel
-  - [ ] - Code - Daniel
+  - [ ] - Code - Daniel - simple menu created
   - [ ] - Tests (????)
 - [ ] - Network Connection
   - [ ] - User Registration
